@@ -9,7 +9,7 @@ The LoRpi Project enables remote command execution on a Raspberry Pi using a pai
 
 ## Hardware Requirements
 - 2x ESP32 LoRa V3 development boards
-- 1x Raspberry Pi (Tested with Raspberry Pi 4 Model B)
+- 1x Raspberry Pi (Tested with Raspberry Pi 4 Model B running Raspberry Pi OS 64bit Bookworm port)
 - USB cables appropriate for your devices
 - Smartphone with BLE (Can use a serial cable instead)
 
